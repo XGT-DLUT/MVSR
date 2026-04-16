@@ -1,0 +1,8 @@
+openai==1.98.0
+rouge_score==0.1.2
+spacy==3.8.7
+tqdm==4.67.1
+numpy==2.3.2
+rank_bm25==0.2.2
+torch==2.3.0
+transformers==4.51.3
