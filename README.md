@@ -1,4 +1,4 @@
-# Codebase for SSFF
+# Codebase for SSMF
 
 This repository contains the source code and necessary data files for reproducing the experiments presented in our paper on Semantic-Syntactic Multidimensional Fusion for In-Context Learning in Aspect Sentiment Triplet Extraction.
 
