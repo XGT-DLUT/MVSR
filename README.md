@@ -1,6 +1,5 @@
-# Codebase for SSMF
-
-This repository contains the source code and necessary data files for reproducing the experiments presented in our paper on Semantic-Syntactic Multidimensional Fusion for In-Context Learning in Aspect Sentiment Triplet Extraction.
+# Codebase for MVSR
+This repository contains the source code and necessary data files for reproducing the experiments presented in our paper on Multi-View Similarity Retrieval for In-Context Learning in Aspect Sentiment Triplet Extraction.
 
 ## 📁 Directory Structure
 Here is the complete directory structure. Due to file size limitations, some files are not uploaded.
